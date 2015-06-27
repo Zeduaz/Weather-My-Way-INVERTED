@@ -1,0 +1,96 @@
+{
+    "appKeys": {
+        "battery": 11,
+        "condition": 1,
+        "debug": 8,
+        "error": 5,
+        "h1_cond": 14,
+        "h1_pop": 16,
+        "h1_temp": 13,
+        "h1_time": 15,
+        "h2_cond": 18,
+        "h2_pop": 20,
+        "h2_temp": 17,
+        "h2_time": 19,
+        "hourly_enabled": 21,
+        "js_ready": 9,
+        "locale": 7,
+        "pubdate": 4,
+        "scale": 10,
+        "service": 6,
+        "sunrise": 2,
+        "sunset": 3,
+        "temperature": 0,
+        "tzoffset": 12
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "editor Zeduaz",
+    "longName": "Weather My Way edited by Zeduaz - INVERTED",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/3.png",
+                "name": "screenshot3",
+                "type": "png"
+            },
+            {
+                "file": "images/2.png",
+                "name": "screenshot2",
+                "type": "png"
+            },
+            {
+                "file": "images/1.png",
+                "name": "screenshot1",
+                "type": "png"
+            },
+            {
+                "file": "images/45x45.png",
+                "name": "ICON_45X45",
+                "type": "png"
+            },
+            {
+                "file": "images/30x30.png",
+                "name": "ICON_30X30",
+                "type": "png"
+            },
+            {
+                "file": "fonts/futura_condensed_bold-webfont.ttf",
+                "name": "FUTURA_CONDENSED_53",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9\u00b0 -]",
+                "file": "fonts/futura.ttf",
+                "name": "FUTURA_17",
+                "trackingAdjust": -2,
+                "type": "font"
+            },
+            {
+                "characterRegex": "[A-Za-z0-9 ]",
+                "file": "fonts/futura.ttf",
+                "name": "FUTURA_18",
+                "trackingAdjust": 3,
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9\u00b0 -]",
+                "file": "fonts/futura.ttf",
+                "name": "FUTURA_30",
+                "trackingAdjust": -3,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Weather My Way INVERTED",
+    "uuid": "492909cc-bca3-4d37-b0b1-179caa2b0a2e",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
